@@ -1,0 +1,11 @@
+{
+  "name": "task-automation-platform",
+  "version": "1.0.0",
+  "description": "A comprehensive platform for task automation and management",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "install-all": "npm install && cd frontend && npm install && cd ../backend && npm install"
+  },
+  "author": "",
+  "license": "ISC"
+}
